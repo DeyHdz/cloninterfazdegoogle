@@ -1,6 +1,7 @@
-# Clonación de Interfaz de Google
+# Clonación de Interfaz de Google ![image](https://github.com/DeyHdz/cloninterfazdegoogle/assets/90238835/13ccc2e7-6736-4328-8aca-96b62fb46932)
 
-## ÍNDICE
+
+## ÍNDICE 
 
 * [1. Intro](https://github.com/DeyHdz/cloninterfazdegoogle/blob/main/README.md#1-intro)
 * [2. Qué construí](https://github.com/DeyHdz/cloninterfazdegoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
